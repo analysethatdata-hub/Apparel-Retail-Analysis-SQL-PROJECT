@@ -29,8 +29,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ```sql
 CREATE DATABASE SQLProjects;
 
-CREATE TABLE retail_sales
-(
+
     create table dbo.apparel
 (
 	id int,
@@ -47,8 +46,7 @@ CREATE TABLE retail_sales
 	sales_method nvarchar(25), 
 	sales float, 
 	cost_of_sales float
-	)
-);
+	);
 ```
 
 ### 2. Data Preprocessing & Cleaning
